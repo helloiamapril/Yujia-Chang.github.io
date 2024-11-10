@@ -45,28 +45,9 @@ interests:
 education:
   - area: PhD in Decision analytics and risk
     institution: University of Southampton
-    date_start: 2019-09
-    date_end: 2023-12
+    date_start: 2019-09-09
+    date_end: 2023-12-12
     summary: Thesis on The Measurement of Expert Judgement Uncertainty in Central Bank Forecasting. Supervised by [Prof. Mario Brito (https://www.southampton.ac.uk/people/5x5thg/professor-mario-brito). 
- 
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -102,7 +83,7 @@ skills:
         percent: 80
         icon: camera
 
-languages:
+Languages:
   - name: English
     percent: 80
   - name: Chinese
@@ -113,10 +94,10 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+Awards:
   - title: Python Data Structures
     url: https://www.coursera.org/account/accomplishments/certificate/9DAEMB8MAH9E
-    date: '2020 Jun'
+    date: '2020-06-01'
     awarder: Coursera
     icon: coursera
     summary: |
@@ -124,7 +105,7 @@ awards:
 
   - title: Python Data Science
     url: https://www.testdome.com/certificates/d8da44fde9174ce6a8b9f26ba7f27d6b
-    date: '2023-11'
+    date: '2023-11-11'
     awarder: Testdome
     icon: Testdome
     summary: |
@@ -135,7 +116,7 @@ awards:
 
 ## About Me
 
-I am a Ph.D. researcher in Decision Analytics and Risks with expertise in probabilistic modeling, machine
+I am a Ph.D. researcher in Decision Analytics and Risks with expertise in probabilistic modelling, machine
 learning, and prediction optimization. My work spans central banking, green finance, and expert judgment
 under uncertainty, with published research in high-impact journals. Skilled in Python, MATLAB, and R, I apply
 advanced analytics to real-world problems and have contributed to interdisciplinary research and professional
