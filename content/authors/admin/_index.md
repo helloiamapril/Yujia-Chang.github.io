@@ -47,9 +47,7 @@ education:
     institution: University of Southampton
     date_start: 2019-09
     date_end: 2023-12
-    summary: |
-      Thesis on The Measurement of Expert Judgement
-Uncertainty in Central Bank Forecasting. Supervised by [Prof. Mario Brito](https://www.southampton.ac.uk/people/5x5thg/professor-mario-brito). 
+    summary: Thesis on The Measurement of Expert Judgement Uncertainty in Central Bank Forecasting. Supervised by [Prof. Mario Brito (https://www.southampton.ac.uk/people/5x5thg/professor-mario-brito). 
  
 work:
   - position: Director of Cloud Infrastructure
