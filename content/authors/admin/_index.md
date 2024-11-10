@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+%title: 吳健雄
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yujia
+last_name: Chang
 
 # Status emoji
 status:
@@ -20,69 +20,42 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Southampton
+    url: https://www.southampton.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:yc23e14@soton.ac.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    URL: https://github.com/helloiamapril
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/yujia-chang-015562a5/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=pYuGJXUAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0003-1331-2081
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Central banks
+  - Forecasting optimization 
+  - NLP
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Decision analytics and risk
+    institution: University of Southampton
+    date_start: 2019-09
+    date_end: 2023-12
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on The Measurement of Expert Judgement
+Uncertainty in Central Bank Forecasting. Supervised by [Prof. Mario Brito](https://www.southampton.ac.uk/people/5x5thg/professor-mario-brito). 
+ 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -95,12 +68,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -143,44 +111,40 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Python Data Structures
+    url: https://www.coursera.org/account/accomplishments/certificate/9DAEMB8MAH9E
+    date: '2020 Jun'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      I studied the foundational concepts of Python Data Structures. By the end, I was familiar with core data types such as lists, tuples, dictionaries, and sets; understood how to manipulate and traverse these data structures efficiently; implemented algorithms to solve real-world problems using Python; identified the appropriate data structure to optimize performance for specific tasks; and applied these skills to build structured and efficient Python applications.
+
+  - title: Python Data Science
+    url: https://www.testdome.com/certificates/d8da44fde9174ce6a8b9f26ba7f27d6b
+    date: '2023-11'
+    awarder: Testdome
+    icon: Testdome
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+     I studied the core concepts of Python for Data Science, gaining proficiency in libraries such as NumPy, pandas, Matplotlib, and Seaborn. By the end, I was able to manipulate and analyze large datasets effectively, perform data cleaning and preprocessing, visualize data trends, and generate insights. Additionally, I developed a solid understanding of statistical analysis and machine learning workflows using scikit-learn. These skills were applied to real-world scenarios, enabling me to extract meaningful information from complex data and present it in a clear, actionable format.
+
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. researcher in Decision Analytics and Risks with expertise in probabilistic modeling, machine
+learning, and prediction optimization. My work spans central banking, green finance, and expert judgment
+under uncertainty, with published research in high-impact journals. Skilled in Python, MATLAB, and R, I apply
+advanced analytics to real-world problems and have contributed to interdisciplinary research and professional
+forecasting. With strong teaching, communication, and project management skills, I have supported academic
+and industry collaborations, receiving multiple awards for my contributions.
