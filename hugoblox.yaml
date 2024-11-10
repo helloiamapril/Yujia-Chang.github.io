@@ -1,2 +1,4 @@
-build:
-  hugo_version: 'latest'
+- name: Setup Hugo
+  uses: peaceiris/actions-hugo@v3
+  with:
+    hugo-version: 'latest'
